@@ -1,1 +1,17 @@
+Package: com.macxk.KWCrack
+Name: KWCrack
+Version: 0.1-1
+Description: 
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: MacXK
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
 
